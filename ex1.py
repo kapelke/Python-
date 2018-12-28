@@ -1,0 +1,6 @@
+print ("Hello World")
+print ("Hello Again")
+print ("I like Typing This")
+print ('Yay! printing')
+print ("Do not touch this you 'not'.")
+print (' I "said" Do not touch this.')
